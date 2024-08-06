@@ -1,0 +1,16 @@
+{
+    "projectName": "fido-test",
+    "description": "lorem ipsum dolor sit amet",
+    "type": "community",
+    "author": "rizarsyi",
+    "version": "0.0.1",
+    "authorWebsite": "https://github.com/rizarsyi/congenial-dollop",
+    "githubUri": "https://github.com/rizarsyi/congenial-dollop",
+    "license": "MIT",
+    "lastUpdated": "1695426396481",
+    "tags": [
+        "social-logins"
+    ],
+    "noDirectLaunch": [],
+    "defaultPackage": "/lib/org/gluu"
+}
